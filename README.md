@@ -1,10 +1,10 @@
 ## Ola, Me chamo Thales Fiscus!
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/ThalesF01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesF01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesF01&layout=compact&langs_count=16&theme=dracula"/>
-<div>
+</div>
 
 ## Habilidades :
 <div style="display: inline_block">
