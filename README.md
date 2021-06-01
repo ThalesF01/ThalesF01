@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/83731970/120287843-02a23580-c296-11eb-8212-fefe5ace8d8a.png)
-
+![Snake animation](https://github.com/ThalesF01)
 <!--
 **ThalesF01/ThalesF01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
