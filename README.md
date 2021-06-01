@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/ThalesF01)
+![Snake animation](https://github.com/ThalesF01/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!--
 **ThalesF01/ThalesF01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
