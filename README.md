@@ -1,6 +1,6 @@
 ## Ola, Me chamo Thales Fiscus!
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesF01&show_icons=true&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesF01&show_icons=true&theme=synthwave)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesF01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Habilidades :
