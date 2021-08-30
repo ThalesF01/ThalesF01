@@ -18,7 +18,7 @@
 
 
 ## Redes Sociais :
-  <a href="www.linkedin.com/in/thalesf01" target="_blank">
+  <a href="https://www.linkedin.com/in/thalesf01/" target="_blank">
   <img align="center" alt="Thales-linkedin" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"      style="max.width:100%;">
   </a>
   -
